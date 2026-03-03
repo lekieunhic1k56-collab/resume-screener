@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pydantic-settings
+pdfplumber
+python-docx
+aiofiles
